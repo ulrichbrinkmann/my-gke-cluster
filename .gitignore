@@ -3,3 +3,5 @@
 /kubeconfig
 /account.json
 /*.tf
+.gitsecret/keys/random_seed
+!*.secret
